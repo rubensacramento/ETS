@@ -1,1 +1,1 @@
-<h1> Instalaciónn de los diferentes IDE</h1>
+<h1> Instalación de los diferentes IDE</h1>
